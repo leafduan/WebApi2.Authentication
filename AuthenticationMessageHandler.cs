@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 // WebPrint.Framework reference https://github.com/LeafDuan/WebPrint/tree/master/WebPrint.Framework
 using WebPrint.Framework;
 
-namespace QueueSys.Server.Helper
+namespace Server.Helper
 {
     // references
     // http://www.codeproject.com/Articles/630986/Cross-Platform-Authentication-With-ASP-NET-Web-API
